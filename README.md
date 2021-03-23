@@ -1,21 +1,16 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="To Do" />
+<h1>To-do</h1>
 
-</div>
+<p>
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mb4ndeira/ignite-node_to-do">
 
-<h1 align="center">To-do</h1>
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mb4ndeira/ignite-node_to-do">
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mb4ndeira/ignite-react_to-do">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mb4ndeira/ignite-node_to-do?color=%68a063">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mb4ndeira/ignite-react_to-do">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mb4ndeira/ignite-react_to-do?color=%23007acc">
-
-  <img alt="License" src="https://img.shields.io/github/license/mb4ndeira/ignite-react_to-do">
+  <img alt="License" src="https://img.shields.io/github/license/mb4ndeira/ignite-node_to-do">
 </p>
 
-<p align="center">
+<p>
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
@@ -24,10 +19,6 @@
 </p>
 
 <br>
-
-## 📷 Gallery ##
-
-<img src="https://github.com/mb4ndeira/ignite-react_to-do/blob/main/public/to-do-list.png" alt="to-do list" />
 
 ## :sparkles: Features ##
 
@@ -40,8 +31,6 @@
 The following tools were used in this project:
 
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements ##
 
@@ -51,10 +40,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/mb4ndeira/ignite-react_to-do
+$ git clone https://github.com/mb4ndeira/ignite-node_to-do
 
 # Access
-$ cd ignite-react_to-do
+$ cd ignite-node_to-do
 
 # Install dependencies
 $ yarn
